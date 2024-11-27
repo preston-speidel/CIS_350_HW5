@@ -9,7 +9,7 @@
 * python main.py
 
 ## Screenshots running the application
-![Screenshot of the application running](CIS350HW5_screenshot1.pdf)
-![Screenshot of the application running](CIS350HW5_screenshot2.pdf)
+* ![Screenshot 1](CIS350HW5_screenshot1.pdf)
+* ![Screenshot 2 after running application](CIS350HW5_screenshot2.pdf)
 
 
