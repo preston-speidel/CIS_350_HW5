@@ -1,13 +1,22 @@
 # main.py
+# This is the main entry point for the application. It initializes the MVC components
+# (Model, View, and Controller) and provides a menu for user interaction.
+
 from model import ProductModel
 from view import ProductView
 from controller import ProductController
 
 def main():
+    # Initialize the Model (data layer)
     model = ProductModel()
+    
+    # Initialize the View (presentation layer)
     view = ProductView()
+    
+    # Initialize the Controller (handles user input and updates the view)
     controller = ProductController(model, view)
 
+    # Menu loop for user interaction
     while True:
         print("\n1. View Product List")
         print("2. View Product Details")
