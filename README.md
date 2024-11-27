@@ -8,4 +8,8 @@
 ### Run the program
 * python main.py
 
+## Screenshots running the application
+![Screenshot of the application running](screenshot.png)
+![Screenshot of the application running](screenshot.png)
+
 
